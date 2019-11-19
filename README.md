@@ -2,7 +2,9 @@
 
 example of building a rust based web app (yew) into a native app using electron.
 
-run with `yarn start` and build a native app bundle with `yarn make`
+first `yarn install` once to get the node dependencies.
+then run with `yarn start` and build a native app bundle with `yarn make` (**~150mb**).
+Looking for something more lightweight: [rust-webview-todomvc-yew](https://github.com/Extrawurst/rust-webview-todomvc-yew) (**~2mb**).
 
 ## todo
 
